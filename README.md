@@ -8,12 +8,18 @@
 This is final part of The Odin Project foundations course. The goal was to create a calculator using HTML, CSS and JavaScript. The calculator should be able to perform basic operations like addition, subtraction, multiplication and division.
 
 ## To do
+### JS
+- [x] add
+- [x] subtract
+- [x] multiply
+- [x] divide
+---
+- [x] operate function
 
-- add
-- subtract
-- multiply
-- divide
+### HTML
+- [ ] Create a basic HTML calculator with buttons
 ---
-- operate function
----
-- Create a basic HTML calculator with buttons
+- [ ] Number buttons 0-9
+- [ ] Operator buttons + - * /
+- [ ] Equals button
+- [ ] Clear button
