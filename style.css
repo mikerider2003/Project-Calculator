@@ -33,8 +33,22 @@ body {
     background-color: #EAEAEA;
 }
 
+.row {
+    display: flex;
+    gap: 1vh;
+}
+
 button {
-            width: 8vh;
-            height: 8vh;
-            font-size: 2rem;
-        }
+    width: 8vh;
+    height: 8vh;
+    font-size: 2rem;
+    
+}
+
+.double-button {
+    width: 17vh;
+}
+
+.triple-button {
+    width: 26vh;
+}
