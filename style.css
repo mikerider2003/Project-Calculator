@@ -6,6 +6,7 @@ body {
 }
 
 .calculator {
+    margin-top: 10vh;
     width: 40vh;
     border: 5px solid #252A34;
     border-radius: 10px;
@@ -35,4 +36,5 @@ body {
 button {
             width: 8vh;
             height: 8vh;
+            font-size: 2rem;
         }
