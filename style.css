@@ -45,6 +45,12 @@ button {
     border-radius: 5px;
     font-size: 2rem;
     color: #252A34;
+    background-color: #EAEAEA;
+}
+
+button:hover {
+    color: #EAEAEA;
+    background-color: #FF2E63;
 }
 
 .double-button {
