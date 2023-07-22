@@ -15,6 +15,11 @@ This is final part of The Odin Project foundations course. The goal was to creat
 - [x] divide
 ---
 - [x] operate function
+- [ ] button event listeners
+- [ ] keyboard event listeners (optional)
+---
+- [ ] `operate()` on them when the user presses the “=” key.
+- [ ] update the display with the ‘solution’ to the operation.
 
 ### HTML
 - [x] Create a basic HTML calculator with buttons
