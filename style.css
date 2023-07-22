@@ -41,8 +41,10 @@ body {
 button {
     width: 8vh;
     height: 8vh;
+    border: 3px solid #252A34;
+    border-radius: 5px;
     font-size: 2rem;
-    
+    color: #252A34;
 }
 
 .double-button {
