@@ -17,9 +17,9 @@ This is final part of The Odin Project foundations course. The goal was to creat
 - [x] operate function
 
 ### HTML
-- [ ] Create a basic HTML calculator with buttons
+- [x] Create a basic HTML calculator with buttons
 ---
-- [ ] Number buttons 0-9
-- [ ] Operator buttons + - * /
-- [ ] Equals button
-- [ ] Clear button
+- [x] Number buttons 0-9
+- [x] Operator buttons + - * /
+- [x] Equals button
+- [x] Clear button
