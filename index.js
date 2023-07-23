@@ -76,10 +76,6 @@ buttons.forEach(button => {
 
             screenChildren[1].textContent = result;
 
-            console.log(firstVariable);
-            console.log(operator);
-            console.log(secondVariable);
-
             firstVariable = undefined;
             secondVariable = undefined;
             operator = undefined;

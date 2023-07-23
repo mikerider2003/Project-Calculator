@@ -67,3 +67,14 @@ button:hover {
 .triple-button {
     width: 26vh;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    color: #FF2E63;
+    font-size: 2vh;
+}
+
+a {
+    color: #FF2E63;
+}
