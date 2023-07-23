@@ -13,12 +13,16 @@ body {
     background-color: #FF2E63;
 }
 
-.result {
+.screen {
     margin: 1vh;
+    padding: 1vh;
     height: 8vh;
     border: 5px solid #252A34;
     border-radius: 10px;
     background-color: #EAEAEA;
+    text-align: end;
+    font-size: 3.5vh;
+    overflow: hidden;
 }
 
 .buttons {
