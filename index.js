@@ -43,3 +43,29 @@ function operate(firstVariable, secondVariable, operator){
     }
 };
 
+const buttons = document.querySelectorAll("button");
+const screen = document.querySelector(".screen");
+const screenChildren = screen.querySelectorAll("div");
+
+buttons.forEach(button => {
+    button.addEventListener("click", () => {
+
+        const pressedButton = button.textContent;
+        console.log(pressedButton);
+
+        if ("0123456789".includes(pressedButton)){
+            screenChildren[1].textContent += pressedButton;
+        };
+
+        if ("+-*/".includes(pressedButton)) {
+            screenChildren[0].textContent = screenChildren[1].textContent + pressedButton;
+            screenChildren[1].textContent = "";
+        };
+
+        if ("C".includes(pressedButton)){
+            screenChildren[0].textContent = "";
+            screenChildren[1].textContent = "";
+        };
+
+    });
+});

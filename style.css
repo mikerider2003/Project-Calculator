@@ -52,6 +52,7 @@ button {
     text-align: center;
     color: #252A34;
     background-color: #EAEAEA;
+    cursor: pointer;
 }
 
 button:hover {
